@@ -11,3 +11,4 @@ curl="0.4.30"
 html2text="0.1.13"
 regex="1.3.9"
 tokio = { version = "0.2", features = ["full"] }
+chrono="0.4.13"
